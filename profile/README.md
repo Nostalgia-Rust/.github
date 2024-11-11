@@ -1,12 +1,8 @@
-## Welcome to the team 🙌
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d4028e1c-88d5-421f-81b3-90bd6a0e38bc" />
+</p>
+<hr />
 
-<!--
+This repository represents the Nostalgia Rust, a 2017 Rust client that brings forth the classical Rust with functioning EAC and old recoil.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-👀 Contribution guidelines - how do team members dive in?
-👩‍💻 Useful resources - where do you keep your docs? Is there anything else the team should know?
-🍪 Fun facts - what is your team's favorite snack?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Nostalgia Rust attempts to recreate how much everybody loved Rust in 2017. We are pretty aware that most of the Rust community miss the older design of the game, the old recoil mechanics, and this raw, really unfiltered way it had of playing. Well, an idea of this project was to deliver that, true to the look and feel of the original mechanics of the game.
